@@ -1,0 +1,296 @@
+Respuesta desde 8.8.8.8: bytes=32 tiempo=68ms TTL=115
+Tiempo de espera agotado para esta solicitud.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=83ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Tiempo de espera agotado para esta solicitud.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=83ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=94ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=83ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=85ms TTL=115
+Tiempo de espera agotado para esta solicitud.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=76ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=96ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=98ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+PING: error en la transmisi�n. Error general. 
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Error general.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=110ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=76ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=67ms TTL=115
+Tiempo de espera agotado para esta solicitud.
+Tiempo de espera agotado para esta solicitud.
+PING: error en la transmisi�n. Error general. 
+Tiempo de espera agotado para esta solicitud.Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=87ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=360ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=67ms TTL=115
+PING: error en la transmisi�n. Error general. 
+Respuesta desde 8.8.8.8: bytes=32 tiempo=85ms TTL=115
+Tiempo de espera agotado para esta solicitud.
+PING: error en la transmisi�n. Error general. 
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Tiempo de espera agotado para esta solicitud.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=87ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=1133ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=78ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=76ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=66ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=69ms TTL=115
+Tiempo de espera agotado para esta solicitud.
+PING: error en la transmisi�n. Error general. 
+Error general.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=83ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=68ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Tiempo de espera agotado para esta solicitud.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=83ms TTL=115
+PING: error en la transmisi�n. Error general. 
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Tiempo de espera agotado para esta solicitud.Respuesta desde 10.52.202.151: Host de destino inaccesible.
+PING: error en la transmisi�n. Error general. 
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=69ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=85ms TTL=115
+Tiempo de espera agotado para esta solicitud.
+PING: error en la transmisi�n. Error general. 
+Respuesta desde 8.8.8.8: bytes=32 tiempo=76ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=1133ms TTL=115
+Tiempo de espera agotado para esta solicitud.
+Tiempo de espera agotado para esta solicitud.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Tiempo de espera agotado para esta solicitud.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=76ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=110ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=83ms TTL=115
+Tiempo de espera agotado para esta solicitud.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=83ms TTL=115
+Error general.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=360ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=63ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=96ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=66ms TTL=115
+Tiempo de espera agotado para esta solicitud.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=83ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=63ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=67ms TTL=115
+PING: error en la transmisi�n. Error general. 
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=110ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Tiempo de espera agotado para esta solicitud.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+PING: error en la transmisi�n. Error general. 
+Respuesta desde 8.8.8.8: bytes=32 tiempo=76ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=67ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=94ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=87ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=96ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=98ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=87ms TTL=115
+Error general.
+Tiempo de espera agotado para esta solicitud.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=76ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+PING: error en la transmisi�n. Error general. 
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=110ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=98ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=76ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+PING: error en la transmisi�n. Error general. 
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Tiempo de espera agotado para esta solicitud.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=98ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=1133ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Tiempo de espera agotado para esta solicitud.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=69ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Tiempo de espera agotado para esta solicitud.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=360ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Tiempo de espera agotado para esta solicitud.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=110ms TTL=115
+Tiempo de espera agotado para esta solicitud.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=69ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Tiempo de espera agotado para esta solicitud.
+Tiempo de espera agotado para esta solicitud.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=87ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=66ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=76ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=76ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Tiempo de espera agotado para esta solicitud.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=360ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=83ms TTL=115
+Tiempo de espera agotado para esta solicitud.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=66ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=94ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=78ms TTL=115
+Tiempo de espera agotado para esta solicitud.Respuesta desde 10.52.202.151: Host de destino inaccesible.
+PING: error en la transmisi�n. Error general. 
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=94ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=68ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+PING: error en la transmisi�n. Error general. 
+Respuesta desde 8.8.8.8: bytes=32 tiempo=78ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=94ms TTL=115
+Tiempo de espera agotado para esta solicitud.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Tiempo de espera agotado para esta solicitud.
+PING: error en la transmisi�n. Error general. 
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=85ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Tiempo de espera agotado para esta solicitud.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=98ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=63ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=63ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=87ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=87ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Tiempo de espera agotado para esta solicitud.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=87ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=96ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Error general.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=66ms TTL=115
+Tiempo de espera agotado para esta solicitud.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=63ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=87ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=69ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Tiempo de espera agotado para esta solicitud.Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=85ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Tiempo de espera agotado para esta solicitud.
+Tiempo de espera agotado para esta solicitud.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=1133ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=360ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Tiempo de espera agotado para esta solicitud.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=78ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Tiempo de espera agotado para esta solicitud.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=67ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=83ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=68ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=87ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=68ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=1133ms TTL=115
+Respuesta desde 8.8.8.8: bytes=32 tiempo=78ms TTL=115
+Tiempo de espera agotado para esta solicitud.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
+Respuesta desde 8.8.8.8: bytes=32 tiempo=96ms TTL=115
+Respuesta desde 10.52.202.151: Host de destino inaccesible.
